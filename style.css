@@ -21,4 +21,12 @@ body {
   width: 375px;
   height: 520px;
   background: #fff;
+  border-radius: 15px;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.6);
+}
+
+.container form {
+  width: 100%;
+  border: 1px solid rgb(82, 74, 235);
+  border-radius: 4px;
 }
