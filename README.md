@@ -9,6 +9,8 @@ This is a product search bar. It implements a simple product search functionalit
 - Visual Presentation
 - User Interaction
 
-## Tech
-JavaScript, CSS, HTML
+## Tools
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
